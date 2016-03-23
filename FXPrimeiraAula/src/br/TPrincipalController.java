@@ -15,7 +15,7 @@ public class TPrincipalController {
 
     @FXML
     void Executar(ActionEvent event) {
-
+    	System.out.println(Campo.getText());
     }
 
 }
