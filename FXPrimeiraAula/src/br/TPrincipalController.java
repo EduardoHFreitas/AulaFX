@@ -17,5 +17,4 @@ public class TPrincipalController {
     void Executar(ActionEvent event) {
     	System.out.println(Campo.getText());
     }
-
 }
